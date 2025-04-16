@@ -1,0 +1,9 @@
+Win32/Debug/*.exe
+Win32/Debug/*.dcu
+__history/
+.DS_Store
+.DS_Store
+__history/
+Win32/
+*.dcu
+*.exe
