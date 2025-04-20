@@ -5,5 +5,7 @@ Esse Painel foi desenvolvido para o acompanhaento da situação dos pedidos que 
 e faz a organização dos pedidos dos clientes.
 
 ## 🎥 Demonstração do Projeto
-https://youtu.be/dBuwbhM1Nws
-[![Clique para assistir](https://img.youtube.com/vi/dBuwbhM1Nws/hqdefault.jpg)](https://youtu.be/dBuwbhM1Nws)
+
+![Demonstração do Projeto 1](./Imagens/GIF 1 PROJETO.gif)
+![Demonstração do Projeto 2](./Imagens/GIF 2 PROJETO.gif)
+
