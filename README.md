@@ -6,6 +6,11 @@ e faz a organização dos pedidos dos clientes.
 
 ## 🎥 Demonstração do Projeto
 
-![Demonstração do Projeto 1](./Imagens/GIF 1 PROJETO.gif)
-![Demonstração do Projeto 2](./Imagens/GIF 2 PROJETO.gif)
+Demostrando o Painel com 4 Colunas, sendo que são 6 colunas no total e mostrando a responsividade do projeto.
+
+![Demonstração do Projeto 1](Imagens/GIF%201%20PROJETO.gif)
+
+Demostrando o Painel com 8 Colunas.
+
+![Demonstração do Projeto 2](Imagens/GIF%202%20PROJETO.gif)
 
